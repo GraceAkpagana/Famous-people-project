@@ -1,6 +1,4 @@
 # Famous-people-project
-This project was to create a nice human readable tuples using SQL 
-# Famous-people-project
 This project was to create a nice human readable tuples using SQL .
 # Project Highlights
  The goal in this project to create a small set of "famous people" in the world ,then make more tables about their profiles. 
